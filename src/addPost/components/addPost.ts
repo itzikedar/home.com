@@ -9,7 +9,7 @@ import { AddPostService } from '../services/add-post';
 
 @Component({
     template: `        
-        <div>Home.com Add post</div>
+        <div>Add post to home.com</div>
     `
 })
 
