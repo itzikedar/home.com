@@ -115,7 +115,7 @@ if (ENV_DEVELOPMENT || ENV_PRODUCTION) {
 
   config.output = {
     filename: '[name].js',
-    path: path.resolve('./target'),
+    path: path.resolve('./public'),
     publicPath: '/'
   };
 
